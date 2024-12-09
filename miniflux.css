@@ -82,6 +82,9 @@ h6 {
 .header a,
 .pagination,
 .header li,
+.item-meta,
+.item-meta-info,
+.category,
 .entry header h1,
 h1,
 h2,
@@ -289,6 +292,11 @@ h3 {
 
 .item-meta a:hover {
 	color: var(--link-color);
+}
+
+.entry header h1,
+.item-title {
+	font-size: 1.2rem;
 }
 
 .item-title a {
