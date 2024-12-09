@@ -315,7 +315,7 @@ article.feed-has-unread {
 
 /* CATEGORY LABEL COLORS */
 .category {
-	background: var(--category-default-color);
+	background-color: var(--category-background-color);
 	border-color: rgba(0, 0, 0, 0.1);
 }
 /* Note: 
