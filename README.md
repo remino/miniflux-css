@@ -1,6 +1,3 @@
 # miniflux-css
 
-Remino Rem <remi@remino.net>
-
-My CSS for [Miniflux](https://miniflux.app/). Think I copied it from somewhere
-then adapted it.
+Merged with [_customized_](https://github.com/remino/customized).
